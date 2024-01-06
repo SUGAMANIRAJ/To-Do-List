@@ -1,0 +1,32 @@
+
+html,body{
+    height: 100%;
+    margin: 0%;
+    border: 0%;
+    background-color: rgb(58, 230, 242);
+}
+.block{
+    margin:5% 10%  20%;
+    background-color: rgba(0, 0, 0, 0.181);
+   
+    border: 20px 20px 20px 20px;
+   border-radius: 5px;
+   padding: 10px;
+    
+    
+}
+.block{
+    width: 70%;
+}
+.ulist button {
+    display:flex;
+    margin-left: auto;
+    margin-right: 0;
+    margin-top: 0;
+  }
+  p{
+    text-align: center;
+    font-size: 5rem;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+  }
